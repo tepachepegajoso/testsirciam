@@ -1,8 +1,7 @@
 
-### Explicación del contenido:
+### Para el pipeline en CMD:
 
-- **Estructura clara**: Cada sección tiene un encabezado, y se proporciona la información necesaria paso a paso.
-- **Comandos explicados**: Cada sección explica qué hacer para ejecutar scripts de manera individual y paralela.
-- **Formato limpio y profesional**: El texto está organizado y tiene énfasis en las acciones principales para facilitar su comprensión.
+- **Ejecutar un script de testcafé**: testcafe chrome script.js. Puede ser cualquier navegador pero en este caso chrome es el menos menso.
+- **Todo el pipeline**: python script.py.
 
-Puedes copiar este contenido a tu archivo `README.md` en GitHub para proporcionar una guía completa y fácil de seguir.
+Pueden haber algunos errores aislados pero basta con correr de nuevo el pipeline.
